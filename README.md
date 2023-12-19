@@ -1,8 +1,5 @@
 # GEMINI AI - Image to Code Converter
 
-![APP UI]([AppUI.png](https://github.com/Nikk579/Image-to-Code-Converter/blob/main/App%20UI%20.png))
-
-
 ## Overview
 
 I tested the newly launched GEMINI AI and built the Image to Code Converter using Streamlit. This application takes an image as input and generates HTML and CSS code to recreate the visual representation of the screenshot.
