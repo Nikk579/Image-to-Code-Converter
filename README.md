@@ -17,7 +17,7 @@ I tested the newly launched GEMINI AI and built the Image to Code Converter usin
 1. **Clone this repository:**
 
    ```bash
-   git clone [https://github.com/yourusername/image-to-code-converter.git](https://github.com/Nikk579/Image-to-Code-Converter.git)
+   git clone https://github.com/Nikk579/Image-to-Code-Converter.git
    cd image-to-code-converter
 
 2. **Install the required dependencies:**
@@ -33,6 +33,3 @@ Streamlit
 GEMINI AI
 PIL (Pillow)
 
-## Demo Video
-
-![Demo Video](Image-to-code-generator-demo.mp4)
