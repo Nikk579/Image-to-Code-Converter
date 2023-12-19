@@ -1,6 +1,6 @@
 # GEMINI AI - Image to Code Converter
 
-![APP UI](App UI .png)
+![APP UI]([AppUI.png](https://github.com/Nikk579/Image-to-Code-Converter/blob/main/App%20UI%20.png))
 
 
 ## Overview
