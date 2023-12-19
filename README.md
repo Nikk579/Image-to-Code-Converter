@@ -1,6 +1,7 @@
 # GEMINI AI - Image to Code Converter
 
-![Image to Code Converter](<[App UI .pn])
+![APP UI](App UI .png)
+
 
 ## Overview
 
@@ -37,4 +38,4 @@ PIL (Pillow)
 
 ## Demo Video
 
-[![Demo Video]](Image-to-code-generator-demo.mp4)
+![Demo Video](Image-to-code-generator-demo.mp4)
