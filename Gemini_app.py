@@ -3,6 +3,8 @@ import google.generativeai as genai
 from PIL import Image
 from IPython.display import display
 
+genai.configure(api_key=GOOGLE_API_KEY)
+
 # Custom CSS for the Streamlit app
 custom_css = f"""
 .main {{
